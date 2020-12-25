@@ -1,2 +1,3 @@
-# md5hash
-md5 hashing c source with no padding
+# etc
+
+contain odds and ends
